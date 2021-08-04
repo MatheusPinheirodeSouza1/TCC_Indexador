@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "spring-monolith-317923",
+  "private_key_id": "020cfc9e16361d5291b6fe5024cd27e274ca30e4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC4Alf0OF8f5KbP\nMkCeEFZqVN2XRdvwWgBvyvZj+1D4RMnC2T1f7mwXxv1GLnKYZzm6IgGgMI4cdyNI\nZzoCPE6yY8ci35TsOFOm13oVKJbTnmioEB2VxKcLvxoOX8j1pruJUr94N9OUwlBM\n153Z8h8iUYOMZdZA0l+z2AacGm4bgN91fE7TDyqzISYojgk5a9FUMQH8a1Mb3IlA\nCvv4+nPMYZZXs04nDjPZtAX3M8Kc5KakNArn8kh9KU2Xn3JWlOpDqZWJrwyTy/4+\nMB6IQOTXhPH+URgF7EgqWeiZReZH9xc5VSlPjyIiVU5utc1Kf6H0SL+3J+8mhjgH\nYw+9yNSXAgMBAAECggEAOcTKliqoepvPXtc5ACbC6okQNHDDNvcakf5XUlZROlBm\nQ1zubtKsbt6TH1hvs7ccoXoRppf31an1ksKNrKwATPMUTreAypR4drXJZyEiEPf3\nhWPh1eYyR3bMmFyr+6tHzzoCUJy+OUKz8Rv0O7tO2PhcY1SJajphv1V/5bxKeyl2\n+JOse1MB/DdcWSHh9rAO3PGpqQIHM5TLMIgFr5A3Vkdl0VBdKm+lE8qfubyDrqhq\nxy8P5nSwg9HXrLUy7mrCsfS5v3QfDi+IuiRmjWFkFKwmdwny6QZ65p7U72oZfAIq\n2SHRLtZeLToE5s182yyhJhkj/YBJnQFmCy1e/e1rWQKBgQDmYlFK3fOg0IlcU2bh\nfKi77cBtw7IcWQLoXbiBsPtqfnX1Ym0BygNNdg5zA9pxjg4jPZnK7gPlvV/5NZ6G\nvKz9kEoMQeylQBbXbuGDNcqRX7i2+ZDvD6yXkrkKA6tZ54fGO+ASU6c49s0OOP0E\nC1gnyvxli1BVe1+j4afb0nM46wKBgQDMeAE1amHoh+Jl0+5ElXtChz5Xi25lVmQK\nDf3xLCOhXikxJJPx0sx4eyqZuiYS+AR+mmB6tbpKTmINcUjHbH7V71Cb9DYJL1Gt\nNyLmmcUHuyHuaLgfeAEn4z5VBPlie3BdAW4+G1pnkFZRfpEJikmAuMdxUYBkEETc\n0/r0eOwoBQKBgGkj03+8XVQ194ooEdq0PnlNnrU5S06+nKIZK3wcnhDS19h968uW\nOv2d9CgvSQDr2K3ijg5bo3G0hFlCTC+nabdqozCG4Y3k+sektcxgvyqrKaxvpuJD\nH/wonMPiOtAT5xXj+3XBsZ5AnAJypZ2z4659Z8Sb2LS6UkKDWEzs9WKzAoGAO18l\nSrNnVrQOY28UosmdDwZibd1I4xgg2GKTuHIOro6++0wZwYBqaxmolxbcc2mdNH3z\nQe5+95CnHCwm6/FvKwPgrkhNYIFjAB8gfUFtWv9VrPqvbEPWYhS0Rs+48oXRbNA7\niME8kRHyXpuX1eNX0I7XKup1k5i9xjmvh0mNmVkCgYA0O9BXaD3dn52K4DuvyBFF\ntnjZkjx8aCBu/Vj3OYTKd6uOTfDp/k5JAjdkHQOHTE55erknY2d+KAIhi42oSsBK\n6DyZefG3Ql9K+bW+Xw2mc/SamAlKiya4fL6BOmWlZlWDiry683PLWgxlocyqGY03\nCJua5kle3cpv+iY45yhWaA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "stackoverflow@spring-monolith-317923.iam.gserviceaccount.com",
+  "client_id": "107230110107092196326",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/stackoverflow%40spring-monolith-317923.iam.gserviceaccount.com"
+}
